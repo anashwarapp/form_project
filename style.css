@@ -1,0 +1,20 @@
+.main{
+    text-align:center;
+    border: 1px solid rgb(25, 0, 255);
+  
+    width:35%;
+    margin-left:32%;
+    margin-top:10%;
+}
+input{
+    margin:10px;
+    padding:5px;
+}
+button{
+    margin: 10px;
+    padding: 5px;
+    background-color: dodgerblue;
+}
+h1{
+    color:dodgerblue ;
+}
