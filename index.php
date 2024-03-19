@@ -31,6 +31,7 @@ session_start();
     <h4>Hobbies: <?= $loggedInUser['Hobby'] ?> </h4>
     
     <br><br>
+    <a href="change_password.php" class="float-end">Reset your password</a><br><br>
     <a href="sign-in.php">click here to sign out</a>
   </body>
   </html>
