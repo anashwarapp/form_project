@@ -14,7 +14,7 @@
                     <label for="password">Password:</label>
                   <input type="password" name="password" id="password"required><br><br>
 
-                  <a href="change_password.php" class="float-end">forgot your password?</a><br>
+               
        
                  
                   <button type="submit" name="submit">LOGIN</button><br><br>
